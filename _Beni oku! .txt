@@ -1,0 +1,21 @@
+***Selin Dayýoðlu-170535004***
+------------------------------
+Veri tabaný adý:170535004
+
+yönetici ad-þifre;
+admin adý:selindayioglu
+admin þifresi:selin123
+
+kullanýcý ;
+kullanýcý adý:samiacar
+kullanýcý þifresi:acar2353
+
+mail-þifre;
+boteakademi17@gmail.com
+boteakademi123
+
+mysql-front bilgileri;
+name:localhost
+user:root
+password:acar2353
+------------------------------
